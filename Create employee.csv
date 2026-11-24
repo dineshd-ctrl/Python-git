@@ -1,0 +1,6 @@
+echo "Name,City,Salary
+Arun,Chennai,25000
+Priya,Bangalore,30000
+Kumar,CHENNAI,28000
+Divya,Coimbatore,27000
+Ravi,chennai,32000" > data/employees.csv
